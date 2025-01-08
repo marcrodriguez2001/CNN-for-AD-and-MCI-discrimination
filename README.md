@@ -1,0 +1,2 @@
+# CNN-for-AD-and-MCI-discrimination
+I developed a Convolutional Neural Network (CNN) binary classifier to differentiate between Alzheimer's Disease (AD) and Mild Cognitive Impairment (MCI) using imaging data provided by the Alzheimer's Disease Neuroimaging Initiative (ADNI) through a formal data request approved for research purposes. MCI represents the transitional stage between age-related memory decline and more severe forms of dementia. Accurate distinction between MCI and AD is critical, as the treatment strategies for each condition differ significantly.
